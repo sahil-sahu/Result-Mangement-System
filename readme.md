@@ -1,4 +1,3 @@
-_______________________
 #Result Management System
 _______________________
  this is a result management system for our school 
