@@ -1,4 +1,4 @@
-#Result Management System
+Result Management System
 _______________________
  this is a result management system for our school 
 In this we made a website which shows result to student 
